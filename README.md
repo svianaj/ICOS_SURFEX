@@ -5,7 +5,7 @@ jupyter notebooks to create SURFEX forcing for ICOS sites and for model validati
 pandas, matplotlib, numpy, xarray, scipy, datetime
 
 * In addition, you'll need to install ICOS's specific python package icoscp
-> pip install icoscp
+  > pip install icoscp
 
 * Finally, you'll need to install the meteo package to have access to some thermodinamic psicrometric formulas:
   > pip install meteo
